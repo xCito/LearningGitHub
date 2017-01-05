@@ -1,0 +1,2 @@
+Appending text to this file from the gitbash terminal. Learning Github and GitBash commands.
+CTRL+D to finish appending.
