@@ -1,2 +1,11 @@
-Appending text to this file from the gitbash terminal. Learning Github and GitBash commands.
+
+ v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v 
+cat>filename.txt
+Allows the user to create text file with the given name and append to it.
+
+"Appending text to this file from the gitbash terminal. Learning Github and GitBash commands."
+
 CTRL+D to finish appending.
+
+ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ 
+
